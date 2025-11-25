@@ -141,4 +141,4 @@ Projeto individual referente ao ODS 11.
 
 Após publicar no GitHub Pages, você vai substituir aqui pelo link real:
 
-https://seu-usuario.github.io/urban-go
+
