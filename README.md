@@ -103,17 +103,6 @@ Dependências
 Nenhuma — o aplicativo é 100% HTML, CSS e JavaScript puro.
 Não requer frameworks, servidores externos ou banco de dados.
 
-📌 8. Screenshots
-
-(Adapte os nomes para o GitHub — você pode enviar seu /screenshots com estas imagens.)
-
-/screenshots
- ├── MENU.png
- └── LINHAS.png
-
-📸 Tela do Menu
-
-📸 Tela de Linhas
 
 📌 9. Autor
 
