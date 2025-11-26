@@ -92,7 +92,7 @@ Abra a pasta do projeto.
 
 Rode com a extensão Live Server.
 
-Abra no navegador o endereço local 
+Abra no navegador o endereço local (ex: http://127.0.0.1:5500).
 
 Instale o app clicando em "Instalar URBAN GO".
 
@@ -122,7 +122,7 @@ Não requer frameworks, servidores externos ou banco de dados.
 
 📌 8. Screenshots
 
-
+(Adapte os nomes para o GitHub — você pode enviar seu /screenshots com estas imagens.)
 
 /screenshots
  ├── MENU.png
