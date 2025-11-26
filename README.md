@@ -71,30 +71,13 @@ Não exige loja (Google Play / App Store).
 📌 6. Instalação e Uso
 📱 Modo Navegador (acesso direto)
 
-Basta abrir o arquivo index.html ou hospedar o app e acessar o link.
-Exemplos de uso:
+PARA INSTALAR O APLICATIVO, SERÁ NECESSARIO FAZER O SEGUINTE:
 
-Abrir o arquivo pelo VS Code usando extensão Live Server;
-
-Ou colocar em qualquer hospedagem gratuita (GitHub Pages / Vercel).
-
-📥 Instalação como App (PWA)
-
-Abra o aplicativo no navegador.
-
-Clique no ícone de instalar (geralmente no canto superior direito).
-
-O URBAN GO será instalado como aplicativo nativo no dispositivo.
-
-💻 Como usar no VS Code
-
-Abra a pasta do projeto.
-
-Rode com a extensão Live Server.
-
-Abra no navegador o endereço local (ex: http://127.0.0.1:5500).
-
-Instale o app clicando em "Instalar URBAN GO".
+ACESSAR O GITHUB ATRAVES DESTE LINK:
+  - CRIAR UMA PASTA NA SUA AREA DE TRABALHO
+  - FAZER O DOWLOAD DE TODOS OS ARQUIVOS(QUE ESTÁ NO REPOSITORIO)
+  - ACESSAR O ARQUIVO (INDEX)
+  - APÓS E SO BAIXAR O APP NO SEU COMPUTADOR
 
 📌 7. Requisitos do Sistema
 Navegador
@@ -137,8 +120,6 @@ Não requer frameworks, servidores externos ou banco de dados.
 Victor Hugo Mendes Fonseca
 Projeto individual referente ao ODS 11.
 
-📌 10. Repositório
 
-Após publicar no GitHub Pages, você vai substituir aqui pelo link real:
 
 
